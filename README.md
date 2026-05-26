@@ -1,4 +1,5 @@
-#AI-Based Career Path Prediction and Guidance System
+# AI-Based Career Path Prediction and Guidance System
+
 Overview
 
 The AI-Based Career Path Prediction and Guidance System is a Machine Learning-based web application developed to help students identify suitable career paths based on their skills, interests, academic performance, certifications, and personality traits. The system predicts appropriate job roles and provides career guidance using Machine Learning algorithms.
