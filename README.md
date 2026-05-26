@@ -84,8 +84,8 @@ Conclusion
 
 This project demonstrates the practical implementation of Artificial Intelligence and Machine Learning in career guidance systems. It helps students make informed career decisions through intelligent and personalized recommendations.
 
-Author
+Author:
 Provish Kumar
 
-License
+License:
 This project is developed for educational and internship purposes.
